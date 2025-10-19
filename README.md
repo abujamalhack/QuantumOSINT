@@ -50,7 +50,7 @@ cd QuantumOSINT
 pip install -r requirements.txt
 ```
 # إعداد قاعدة البيانات
-##📁 هيكل المشروع
+### 📁 هيكل المشروع
 
 ```bash
 QuantumOSINT/
