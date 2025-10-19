@@ -1,0 +1,43 @@
+# المكتبات الأساسية
+aiohttp>=3.8.0
+asyncio>=3.4.3
+requests>=2.28.0
+
+# الذكاء الاصطناعي والتعلم الآلي
+torch>=1.13.0
+transformers>=4.21.0
+deepface>=0.0.79
+opencv-python>=4.6.0
+scikit-learn>=1.1.0
+
+# معالجة الصوت
+SpeechRecognition>=3.8.0
+pyAudioAnalysis>=0.3.0
+
+# المتصفح والتخفى
+selenium>=4.8.0
+undetected-chromedriver>=3.4.0
+selenium-stealth>=1.0.6
+
+# الويب وAPI
+fastapi>=0.95.0
+uvicorn>=0.21.0
+pydantic>=1.10.0
+
+# قواعد البيانات
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+
+# الشبكات والأمان
+dnspython>=2.3.0
+python-whois>=0.8.0
+cryptography>=39.0.0
+
+# الأدوات المساعدة
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.6.0
+networkx>=3.0
+
+# التسجيل
+loguru>=0.7.0
